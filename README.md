@@ -5,8 +5,7 @@ A project that scrapes Casey Neistat’s YouTube channel, computes emotion‐bas
 ## What’s here
 
 - **SingleChannelModelling.ipynb**  
-  • Scrapes video metadata & transcripts  
-  • Cleans text and calls an emotion‐analysis API  
+  • Scrapes video metadata & frames  
   • Outputs `video_data_final.csv`
 
 - **video_data_final.csv**  
@@ -17,7 +16,7 @@ A project that scrapes Casey Neistat’s YouTube channel, computes emotion‐bas
   • Builds simple models to see which emotions drive views/likes/comments
 
 - **Presentation.mp4**  
-  • Slide deck summarizing findings
+  • Video Presentation of Project
 
 - **Report.pdf**  
   • Written report of methods and results

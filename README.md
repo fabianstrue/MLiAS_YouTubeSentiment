@@ -1,4 +1,4 @@
-# SingleChannelModelling
+# Youtube - Emotional Video Analysis
 
 A project that scrapes Casey Neistat’s YouTube channel, computes emotion‐based scores for each video, and explores how those emotional features may relate to engagement.
 

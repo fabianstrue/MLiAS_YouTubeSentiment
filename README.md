@@ -15,8 +15,8 @@ A project that scrapes Casey Neistat’s YouTube channel, computes emotion‐bas
   • Loads `video_data_final.csv`  
   • Builds simple models to see which emotions drive views/likes/comments
 
-- **Presentation.mp4**  
-  • Video Presentation of Project
+- **Presentation Video**  
+  • https://drive.google.com/file/d/12odXTgj3f8i9pgqz_YTejuC6mnOSVyyW/view?usp=drive_link
 
 - **Report.pdf**  
   • Written report of methods and results
